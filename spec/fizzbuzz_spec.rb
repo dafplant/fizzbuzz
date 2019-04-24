@@ -1,6 +1,4 @@
-
-
-
+require './lib/fizzbuzz'
 
 
 describe 'fizzbuzz' do
